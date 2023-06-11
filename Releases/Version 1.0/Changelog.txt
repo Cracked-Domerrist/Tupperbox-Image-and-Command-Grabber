@@ -1,0 +1,9 @@
+11/6/23
+
+Added Tupper Image Grabber (TIG)
+
+Added Tupper Registry Command Grabber (TRCG)
+
+Added both readme's to the respective files
+
+Kept headache, this hurts.
